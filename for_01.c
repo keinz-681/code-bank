@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main(void)
+    //数の足し合わせを行うプログラム。
 {
     int n,m,sum=0;
     printf("n="); 
