@@ -6,5 +6,5 @@ C言語のソースファイル
 pull requestしたやつの動かし方は分かりま線。
 # 扱い方
 ダウンロードして、コンパイルする。  
-gcc -fexec-charset=CP932 -o [.exeにした時のファイル名] [コンパイルするソースファイル]
+gcc -fexec-charset=CP932 -o [.exeにした時のファイル名] [コンパイルするソースファイル]  
 参照先:https://dianxnao.com/windows%EF%BC%9A%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E4%B8%8A%E3%81%A7gcc%E3%82%B3%E3%83%B3%E3%83%91%E3%82%A4%E3%83%AB%E3%81%97%E3%81%9F%E5%AE%9F%E8%A1%8C/
