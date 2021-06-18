@@ -18,5 +18,8 @@ int main(void)
     double e=aa+b;
     double r=e/d;
     printf("R=%f",r);
+    printf("入力してエンター押すと閉じます。\n");
+    scanf("%lf",&timpo);    
+
     return 0;
 }
